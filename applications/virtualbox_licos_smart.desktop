@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=LicOS
+Exec=VirtualBoxVM --startvm "licos_smart"
+Icon=/home/webbug/.local/share/icons/licos.png
+StartupWMClass=vbox_licos_smart
+Terminal=false
+Categories=System;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=SiemensStep7
+Exec=VirtualBoxVM --startvm "step7"
+Icon=/home/webbug/.local/share/icons/step7.png
+StartupWMClass=vbox_step7
+Terminal=false
+Categories=System;

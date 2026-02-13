@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Lichuan
+Exec=VirtualBoxVM --startvm "lichuan"
+Icon=/home/webbug/.local/share/icons/lichuan.png
+StartupWMClass=vbox_lichuan
+Terminal=false
+Categories=System;

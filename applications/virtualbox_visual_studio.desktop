@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=VisualStudio
+Exec=VirtualBoxVM --startvm "visual_studio"
+Icon=/home/webbug/.local/share/icons/vs.png
+StartupWMClass=vbox_visual_studio
+Terminal=false
+Categories=System;

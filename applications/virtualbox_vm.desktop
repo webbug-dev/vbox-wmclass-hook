@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=VirtualBox Machine
+Exec=VirtualBoxVM %U
+Icon=/home/webbug/.local/share/icons/win.png
+StartupWMClass=VirtualBox Machine
+Terminal=false
+Categories=System;

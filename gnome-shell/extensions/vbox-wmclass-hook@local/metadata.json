@@ -1,0 +1,16 @@
+{
+  "name": "VBox WM_CLASS hook",
+  "description": "Set WM_CLASS for VirtualBox Machine windows on create",
+  "version": 1,
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/webbug/vbox-wmclass-hook",
+  "uuid": "vbox-wmclass-hook@local",
+  "version": 1
+}
