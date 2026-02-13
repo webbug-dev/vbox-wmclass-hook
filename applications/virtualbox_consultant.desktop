@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=consultant
+Exec=VirtualBoxVM --startvm "consultant"
+Icon=/home/webbug/.local/share/icons/consultant.png
+StartupWMClass=vbox_consultant
+Terminal=false
+Categories=System;
